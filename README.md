@@ -6,7 +6,7 @@ This repository contains the code for PalletJS, an open-source library for visua
 
     .
     ├── WebGL_Example		# Example code for rendering a box with WebGL
-    ├── PalletJS             	# Code for PalletJS (coming soon)
+    ├── PalletJS             	# Code for PalletJS (WIP)
     ├── LICENSE
     └── README.md
 
