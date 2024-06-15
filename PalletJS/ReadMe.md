@@ -26,6 +26,6 @@ demo.js: Examples for usage
 
 The dependencies between the files and classes are visualized in the images below:
 
-![File_Structure](./Images/File_Structure.pdf)
+![File_Structure](./Images/File_Structure.png)
 
-![Class_Structure](./Images/Class_Structure.pdf)
+![Class_Structure](./Images/Class_Structure.png)

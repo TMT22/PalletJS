@@ -25,3 +25,7 @@ PACKET_COORDINATES: Describes the 2D dimensions of a packet in a pallet layer. S
 - breite_x: length of the packet in x direction
 - breite_y: length of the packet in y direction
 - hoehe: Height of this packet (expected to be the same for all packets in the same layer)
+
+Example for the setup of a PalletLayer:
+
+![Class_Structure](./Images/PalletLayer_Example.png)
